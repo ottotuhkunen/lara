@@ -1,0 +1,2 @@
+.actions-container{height:100%;overflow-x:auto;width:100%}.actions-table{border-collapse:collapse;width:100%}.actions-table td,.actions-table th{border:1px solid #ddd;font-size:10pt;padding:8px;text-align:left}.actions-container p{font-size:10pt;margin:0;padding-left:8px}.flashing-red{animation:flashRed 2s infinite}@keyframes flashRed{0%{background-color:#40bb78}49%{background-color:#40bb78}50%{background-color:#cb1c1c}99%{background-color:#cb1c1c}to{background-color:#40bb78}}
+/*# sourceMappingURL=218.26be8307.chunk.css.map*/
